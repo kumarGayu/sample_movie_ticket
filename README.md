@@ -17,8 +17,11 @@ npm install             # To get things goind (download all neccessary packages)
 ```
 npm run start           # Start the node js server
 npm run dev             # Start the node js server with nodemon
-npm run test            # to run the test in api for search
+# new terminal
 npm run build           # Start webpack (build the bundle js file)
+
+
+npm run test            # to run the test in api for search
 npm run killNodeWin     # Kill all node processes in Windows
 npm run killNodeLinux   # Kill all node processes in Linux and Mac Os
 ```
